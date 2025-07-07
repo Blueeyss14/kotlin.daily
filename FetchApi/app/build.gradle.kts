@@ -58,6 +58,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     //Retrofit
-    implementation("com.squereup.retrofit2:retrofit:2.9.0")
-    implementation("com.squereup.retrofit2:converter-gson:2.9.0")
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
